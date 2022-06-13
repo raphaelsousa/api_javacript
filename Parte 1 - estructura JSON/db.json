@@ -1,0 +1,24 @@
+{
+  "contactos": [
+    {
+      "nombre": "Raphael",
+      "telefono": "3221394432",
+      "id": 1
+    },
+    {
+      "nombre": "Vivian",
+      "telefono": "3198728341",
+      "id": 2
+    },
+    {
+      "nombre": "Thiago",
+      "telefono": "3108878172",
+      "id": 3
+    },
+    {
+      "nombre": "Manuel",
+      "telefono": "3156625341",
+      "id": 4
+    }
+  ]
+}
